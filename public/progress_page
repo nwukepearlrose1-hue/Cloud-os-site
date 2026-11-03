@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Progress | Cloud OS Project</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <nav aria-label="Main navigation">
+      <a href="index.html">Home</a>
+      <a href="progress.html">Progress</a>
+      <a href="architecture.html">Architecture</a>
+    </nav>
+  </header>
+
+  <main>
+    <h1>Assignment Progress</h1>
+    <p>This page tracks my work on Cloud OS Assignment 1.</p>
+
+    <h2>Checklist</h2>
+    <ul>
+      <li>Created GitHub repository</li>
+      <li>Deployed the site to Cloudflare</li>
+      <li>Added a custom 404 page</li>
+      <li>Added a security header</li>
+      <li>Build the remaining pages</li>
+    </ul>
+  </main>
+
+  <footer>
+    <p>Cloud OS Assignment 1</p>
+  </footer>
+</body>
+</html>
