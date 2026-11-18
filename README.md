@@ -4,7 +4,7 @@
 
 A small three-page static website built for the Cloud OS module of Operating Systems Design (CCIS-673). It is hosted on Cloudflare (Workers static assets, Free plan) and deployed from this GitHub repository.
 
-## Pages
+# Pages
 
 - `index.html`: project introduction
 - `progress_page.html`: project and assignment progress
@@ -25,7 +25,7 @@ Cloud-os-site/
 └── README.md
 ```
 
-# Test locally
+# Local Test
 
 1. Clone the repo and open the `public/` folder.
 2. Start a local server: `python3 -m http.server 8000` from inside `public/`.
