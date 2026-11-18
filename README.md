@@ -6,7 +6,7 @@ A small three-page static website built for the Cloud OS module of Operating Sys
 
 # Pages
 
-- `index.html`: project introduction
+- `index.html`: includes project introduction
 - `progress_page.html`: project and assignment progress
 - `architecture.html`: Cloud OS architecture and the responsibility boundary (to be added)
 - `404.html`: custom page for unknown URLs
@@ -15,7 +15,7 @@ A small three-page static website built for the Cloud OS module of Operating Sys
 
 ```
 Cloud-os-site/
-├── public/            # all site files served to visitors
+├── public/            # files provided to visitors
 │   ├── index.html
 │   ├── progress_page.html
 │   ├── architecture.html
